@@ -154,7 +154,7 @@ footer:
       icon: "fas fa-fw fa-envelope"
       url: "meilinpa@usc.edu/meilinpan2000@gmail.com"
 
-resume: "/assets/files/resume.pdf"
+resume: "assets/files/Meilin Pan Resume 2025.pdf"
 # Reading Files
 include:
   - .htaccess
